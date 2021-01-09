@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/koppor/adr-manager)](https://github.com/koppor/adr-manager/stargazers)
 
 
-## Project setup
+## Project setup.
 ```
 npm install
 ```
